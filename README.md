@@ -16,15 +16,22 @@
 # Setup
 Om dit project te kunnen namaken binnen Unity heb je ARCore nodig:
 ````
-$ Download https://developers.google.com/ar/develop/downloads
-$ Import de package binnen Unity
-$ Ga naar player settings en schakel alleen ARcore in
-$ Ga naar build settings en zet de Build op Android
+- Download https://developers.google.com/ar/develop/downloads
+- Import de package binnen Unity
+- Ga naar player settings en schakel alleen ARcore in
+- Ga naar build settings en zet de Build op Android
 ````
 # Features
 - Makkelijk een AR vergaderkamer gebruiken
 - Reacties van gebruikers testen en hoe deze ermee omgaan
 - verander doormiddel van unity de omgeving waar je in zit
+
+# Controls
+````
+- Start de applicatie op de mobiele android telefoon
+- Scan de omgeving 
+- Klik op een plek om het portaal te laten verschijnen
+````
 
 # Sources
 App is gemaakt met behulp van tutorial: 
