@@ -1,4 +1,4 @@
-# Arproject
+# AR-project
  Project met "portaal" augmented reality, vergaderhok omgetoverd in een andere "wereld" doormiddel van het portaal dat is gemaakt binnen AR.
  
  
