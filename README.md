@@ -20,6 +20,7 @@ Om dit project te kunnen namaken binnen Unity heb je ARCore nodig:
 - Import de package binnen Unity
 - Ga naar player settings en schakel alleen ARcore in
 - Ga naar build settings en zet de Build op Android
+- Open nu het Unity bestand binnen Unity
 ````
 # Features
 - Makkelijk een AR vergaderkamer gebruiken
